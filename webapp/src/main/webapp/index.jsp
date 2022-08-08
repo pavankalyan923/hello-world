@@ -8,7 +8,7 @@ div {text-align: center;}
 </head>
 <body>
 
-<h1 style="color:blue;"> pipeline working great  </h1>
+<h1 style="color:blue;"> github triggered sucuessfully  </h1>
 <h1 style="color:blue;"> Version: 1.27 - Running</h1>
 </body>
 </html>
